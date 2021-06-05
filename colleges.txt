@@ -1,0 +1,14 @@
+3 SBCC Santa Barbara City College; 18524
+97 ZZC ZZ College; 9997
+5 PCC Pasadena City College; 17666
+7 NVC Napa Valley College; 18920
+15 PVC Palo Verde College; 18266
+4 DVC Diablo Valley College; 20579
+6 FC Foothill College; 19302
+12 CS College of the Siskiyous; 21936
+99 CPC Cupertino College; 9999
+10 CC Cuesta College; 19135
+8 OC Ohlone College; 15878
+98 ABC AB College; 9998
+1 DAC De Anza College; 19302
+9 IVC Irvine Valley College; 20577
